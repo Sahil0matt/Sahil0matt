@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on learning (web dev)
 - 📫 How to reach me sahilmathew2014@gmail.com 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i dont like kids
+- ⚡ Fun fact: I Dont like kids
 
 <!---
 Sahil0matt/Sahil0matt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
